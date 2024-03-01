@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:#00FFFF ;
+}
+
+header a{
+    text-decoration: none;
+    border: 1px solid #00FFFF;
+    background-color: white;
+    margin: 10px;
+    padding: 3px;
+    border-radius: 12%;
+}
+
+main h1{
+    color: blue;
+    background-color:#00FFFF ;
+    text-align: center;
+    font-family: Calibri Light;
+}
+
+footer{
+    border: 5px solid Peru;
+    background-color: peru;
+}
+
+footer p {
+    border: 5px solid Peru;
+    background-color: white;
+    margin: 3px;
+    padding: 3px;
+}
+
+nav {
+    background-color: lightblue;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: navy;
+    margin: 25px;
+    text-align: center;
+    border: 1px solid white;
+    padding: 4px;
+    border-radius: 12%;
+    background-color:  white;
+}
+
+.f{
+    background-color: tomato;
+    border: 1px solid tomato;
+    border-radius:10px ;
+    color: white;
+}
+
+h2 {
+    color: navy;
+}
+
+.l {
+    text-decoration: none;
+    border: 3px solid navy;
+    margin: 10px;
+    padding: 5px;
+}
